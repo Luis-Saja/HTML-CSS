@@ -1,0 +1,44 @@
+*,html{
+    margin: 0;
+    padding: 0;
+}
+.Header-0{
+    background-color: #d06dbe;
+    width: 100%;
+    height: 100px;
+}
+
+.Header-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    padding: 20px;
+}
+
+.img-profile{
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+
+}
+.img-citlali{
+    width: 20%;
+    height: 20%;
+}
+
+.About-citlali{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d06dbe;
+    font-size: 20px;
+    color: #fff;
+    }
+
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
